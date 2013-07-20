@@ -16,7 +16,5 @@ for descriptor in  fs.readFileSync("src/licenses.txt").toString().split("\n")
 if unMatched.length > 0
   console.error unMatched
   throw new Error "There were unmatched lines."
-console.log licenses
-ids
 
 fs.writeFileSync "lib/licenses.json", JSON.stringify licenses, null, 2
