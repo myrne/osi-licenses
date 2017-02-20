@@ -1,5 +1,7 @@
 # osi-licenses 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/braveg1rl/osi-licenses.svg)](https://greenkeeper.io/)
+
 id-name pairs of OSI-approved licenses, based on list at http://opensource.org/licenses/alphabetical .
 
 ## Usage
